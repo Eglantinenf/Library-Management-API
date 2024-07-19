@@ -2,7 +2,7 @@
 It includes all essential features such as user registration , book management (add, update, delete), borrowing books, validation, late fee and etc...
 
 All features:
-1)Get the list of all users
+1)Get the list of all users\n
 2)Get the list of all books
 3)Delete books
 4)Add books

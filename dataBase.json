@@ -1,0 +1,99 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": " Nastaran Farjami",
+            "username": "eglantine0101",
+            "email": "eglantine0101@gmail.com",
+            "lateFee": 0,
+            "role": "ADMIN"
+        },
+        {
+            "id": 2,
+            "name": "Steve Jobs",
+            "username": "steve1955",
+            "email": "steve@gmail.com",
+            "lateFee": 70000,
+            "role": "ADMIN"
+        },
+        {
+            "id": 3,
+            "name": "Elon Musk",
+            "username": "elonAI",
+            "email": "elon@gmail,com",
+            "lateFee": 0,
+            "role": "USER"
+        },
+        {
+            "id": 4,
+            "name": "Taylor Swift",
+            "username": "taylor0000",
+            "email": "taylor@gmail,com",
+            "lateFee": 0,
+            "role": "ADMIN"
+        },
+        {
+            "id": "ffc07666-9b8a-4b8f-9cfd-5c3ad7fa8d9d",
+            "name": "spongeBob",
+            "username": "squarePants0101",
+            "email": "spongeBob@gmail.com",
+            "lateFee": 0
+        },
+        {
+            "id": "83b26a78-09ed-4884-b802-9b304a9cde62",
+            "name": "nasi",
+            "username": "eglantine",
+            "email": "eglantine@gmail.com",
+            "lateFee": 0
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Artificial Intelligence",
+            "author": "Peter Norvig",
+            "price": 1000000,
+            "free": 1
+        },
+        {
+            "id": 2,
+            "title": "React Js Tutorial",
+            "author": "Nasi",
+            "price": 800000,
+            "free": 0
+        },
+        {
+            "id": 3,
+            "title": "Clean code for Js",
+            "author": "James Padolsey",
+            "price": 350000,
+            "free": 0
+        },
+        {
+            "id": 4,
+            "title": "Signals and Systems",
+            "author": "Oppenheim",
+            "price": 1300000,
+            "free": 0
+        },
+        {
+            "id": "f53c0883-f698-484a-b62f-3c72eabfa548",
+            "title": "React Js Tutorial",
+            "author": "Nasi",
+            "price": 800000,
+            "free": 1
+        }
+    ],
+    "rents": [
+        {
+            "id": 1,
+            "userID": 1,
+            "bookID": 2
+        },
+        {
+            "id": "ea1b7072-c272-4206-8bf8-e682bdeb025b",
+            "userID": 1,
+            "bookID": 3
+        }
+    ]
+}

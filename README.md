@@ -13,3 +13,4 @@ All features:
 9)User login and logout
 10)Deliver the book
 11)make Admin
+12)rent a book and pay for late fee
